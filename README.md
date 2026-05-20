@@ -46,4 +46,4 @@ npm run check
 
 ## Caveat
 
-Hermes の `sessions` table に保存された usage から集計するため、provider 側の hidden usage、retry、auxiliary LLM call、課金にだけ現れる利用量は含まれないことがあります。これは請求額ではなく、ローカル観測できる下限推定値です。
+Hermes Agent は `~/.hermes/state.db` の `sessions` table に保存された usage から集計します。Symphony は Symphony-launched Codex worker の `~/.codex/sessions/**/rollout-*.jsonl` にある cumulative `token_count` から、各 rollout の最新/最大値だけを集計します。provider 側の hidden usage、retry、課金にだけ現れる利用量は含まれないことがあります。これは請求額ではなく、ローカル観測できる下限推定値です。
