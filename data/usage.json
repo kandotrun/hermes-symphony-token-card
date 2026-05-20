@@ -1,0 +1,90 @@
+{
+  "generatedAt": "2026-05-20T16:09:48.524806Z",
+  "timezone": "Asia/Tokyo",
+  "today": "2026-05-21",
+  "month": "2026-05",
+  "note": "Local lower-bound estimate from Hermes sessions table; not provider billing.",
+  "categories": {
+    "hermes": {
+      "label": "Hermes Agent",
+      "today": {
+        "tokens": 25188949,
+        "input": 1237433,
+        "output": 99139,
+        "cache": 23834624,
+        "reasoning": 17753,
+        "sessions": 10
+      },
+      "month": {
+        "tokens": 614796218,
+        "input": 56615400,
+        "output": 3134910,
+        "cache": 554497536,
+        "reasoning": 548372,
+        "sessions": 625
+      },
+      "allTime": {
+        "tokens": 614796218,
+        "input": 56615400,
+        "output": 3134910,
+        "cache": 554497536,
+        "reasoning": 548372,
+        "sessions": 625
+      }
+    },
+    "symphony": {
+      "label": "Symphony",
+      "today": {
+        "tokens": 6839488,
+        "input": 272441,
+        "output": 20008,
+        "cache": 6542336,
+        "reasoning": 4703,
+        "sessions": 2
+      },
+      "month": {
+        "tokens": 88418130,
+        "input": 5096850,
+        "output": 287664,
+        "cache": 82974720,
+        "reasoning": 58896,
+        "sessions": 26
+      },
+      "allTime": {
+        "tokens": 88418130,
+        "input": 5096850,
+        "output": 287664,
+        "cache": 82974720,
+        "reasoning": 58896,
+        "sessions": 26
+      }
+    },
+    "total": {
+      "label": "Total",
+      "today": {
+        "tokens": 32028437,
+        "input": 1509874,
+        "output": 119147,
+        "cache": 30376960,
+        "reasoning": 22456,
+        "sessions": 12
+      },
+      "month": {
+        "tokens": 703214348,
+        "input": 61712250,
+        "output": 3422574,
+        "cache": 637472256,
+        "reasoning": 607268,
+        "sessions": 651
+      },
+      "allTime": {
+        "tokens": 703214348,
+        "input": 61712250,
+        "output": 3422574,
+        "cache": 637472256,
+        "reasoning": 607268,
+        "sessions": 651
+      }
+    }
+  }
+}
