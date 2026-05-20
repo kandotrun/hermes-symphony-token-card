@@ -7,7 +7,6 @@ import glob
 import html
 import json
 import os
-import re
 import sqlite3
 from dataclasses import asdict, dataclass
 from datetime import datetime, timezone
@@ -58,11 +57,6 @@ def fmt(n: int) -> str:
     if n >= 1_000:
         return f"{n / 1_000:.1f}K"
     return str(n)
-
-
-def classify(row: sqlite3.Row, symphony_re: re.Pattern[str]) -> str:
-    haystack = " ".join(str(row[k] or "") for k in ("id", "source", "title", "model_config"))
-    return "symphony" if symphony_re.search(haystack) else "hermes"
 
 
 def load_symphony_codex_rollouts(root: Path) -> list[dict[str, object]]:
@@ -138,11 +132,12 @@ def main() -> int:
     ap.add_argument("--out", default=".")
     ap.add_argument("--timezone", default="Asia/Tokyo")
     ap.add_argument("--codex-sessions", default=os.path.expanduser("~/.codex/sessions"))
+    ap.add_argument("--now", help="Override current time as an ISO-8601 timestamp, for deterministic tests.")
     args = ap.parse_args()
 
     out = Path(args.out)
     tz = ZoneInfo(args.timezone)
-    now = datetime.now(tz)
+    now = datetime.fromisoformat(args.now).astimezone(tz) if args.now else datetime.now(tz)
     today_start = now.replace(hour=0, minute=0, second=0, microsecond=0)
     month_start = now.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
 

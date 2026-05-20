@@ -5,5 +5,7 @@ out
 .DS_Store
 *.sqlite
 *.db
+__pycache__/
+*.py[cod]
 
 tsconfig.tsbuildinfo
