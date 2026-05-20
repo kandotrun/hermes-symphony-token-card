@@ -50,7 +50,7 @@ export function renderSummaryBadge(kind: string, data: UsageData): string {
   const cat = data.categories[kind] || data.categories.total;
   const colors: Record<string, string> = { hermes: "#22c55e", symphony: "#8b5cf6", total: "#38bdf8" };
   const value = `today ${fmt(cat.today.tokens)} / month ${fmt(cat.month.tokens)}`;
-  return renderBadge(cat.label, value, colors[kind] || colors.total);
+  return renderBadge(`${cat.label} tokens`, value, colors[kind] || colors.total);
 }
 
 export function renderCard(kind: string, data: UsageData): string {

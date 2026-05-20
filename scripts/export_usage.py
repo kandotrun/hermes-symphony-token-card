@@ -69,7 +69,7 @@ def load_rows(db: Path) -> list[sqlite3.Row]:
 
 
 def make_summary_badge(label: str, today: Bucket, month: Bucket, color: str) -> str:
-    return make_badge(label, f"today {fmt(today.tokens)} / month {fmt(month.tokens)}", color)
+    return make_badge(f"{label} tokens", f"today {fmt(today.tokens)} / month {fmt(month.tokens)}", color)
 
 def make_badge(label: str, value: str, color: str) -> str:
     left = max(64, len(label) * 7 + 18)
