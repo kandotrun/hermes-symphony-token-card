@@ -1,6 +1,6 @@
-# Hermes × Symphony Token Card
+# Hermes × Symphony Token Badges
 
-GitHub profile README に埋め込める、Hermes Agent / Symphony のトークン利用カードです。
+GitHub profile README に埋め込める、Hermes Agent / Symphony のシンプルなトークン利用バッヂです。
 
 - 日次トークン
 - 月次トークン
