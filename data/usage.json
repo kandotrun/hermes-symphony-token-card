@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T16:16:50.479985Z",
+  "generatedAt": "2026-05-26T16:27:16.358980Z",
   "timezone": "Asia/Tokyo",
   "today": "2026-05-27",
   "month": "2026-05",
@@ -43,19 +43,19 @@
         "sessions": 0
       },
       "month": {
-        "tokens": 11185607244,
-        "input": 11165751168,
-        "output": 19856076,
-        "cache": 10909379200,
-        "reasoning": 7962555,
+        "tokens": 11189930707,
+        "input": 11170067136,
+        "output": 19863571,
+        "cache": 10913659520,
+        "reasoning": 7966855,
         "sessions": 250
       },
       "allTime": {
-        "tokens": 11185607244,
-        "input": 11165751168,
-        "output": 19856076,
-        "cache": 10909379200,
-        "reasoning": 7962555,
+        "tokens": 11189930707,
+        "input": 11170067136,
+        "output": 19863571,
+        "cache": 10913659520,
+        "reasoning": 7966855,
         "sessions": 250
       }
     },
@@ -70,19 +70,19 @@
         "sessions": 0
       },
       "month": {
-        "tokens": 12411233485,
-        "input": 11262399421,
-        "output": 25102624,
-        "cache": 12032145024,
-        "reasoning": 8928171,
+        "tokens": 12415556948,
+        "input": 11266715389,
+        "output": 25110119,
+        "cache": 12036425344,
+        "reasoning": 8932471,
         "sessions": 1210
       },
       "allTime": {
-        "tokens": 12411233485,
-        "input": 11262399421,
-        "output": 25102624,
-        "cache": 12032145024,
-        "reasoning": 8928171,
+        "tokens": 12415556948,
+        "input": 11266715389,
+        "output": 25110119,
+        "cache": 12036425344,
+        "reasoning": 8932471,
         "sessions": 1210
       }
     }
