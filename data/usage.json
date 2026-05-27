@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T02:10:34.571994Z",
+  "generatedAt": "2026-05-27T02:21:12.614995Z",
   "timezone": "Asia/Tokyo",
   "today": "2026-05-27",
   "month": "2026-05",
@@ -8,28 +8,28 @@
     "hermes": {
       "label": "Hermes Agent",
       "today": {
-        "tokens": 0,
-        "input": 0,
-        "output": 0,
+        "tokens": 951783,
+        "input": 941057,
+        "output": 10726,
         "cache": 0,
         "reasoning": 0,
-        "sessions": 0
+        "sessions": 2
       },
       "month": {
-        "tokens": 1225626241,
-        "input": 96648253,
-        "output": 5246548,
+        "tokens": 1226578024,
+        "input": 97589310,
+        "output": 5257274,
         "cache": 1122765824,
         "reasoning": 965616,
-        "sessions": 960
+        "sessions": 962
       },
       "allTime": {
-        "tokens": 1225626241,
-        "input": 96648253,
-        "output": 5246548,
+        "tokens": 1226578024,
+        "input": 97589310,
+        "output": 5257274,
         "cache": 1122765824,
         "reasoning": 965616,
-        "sessions": 960
+        "sessions": 962
       }
     },
     "symphony": {
@@ -62,28 +62,28 @@
     "total": {
       "label": "Total",
       "today": {
-        "tokens": 0,
-        "input": 0,
-        "output": 0,
+        "tokens": 951783,
+        "input": 941057,
+        "output": 10726,
         "cache": 0,
         "reasoning": 0,
-        "sessions": 0
+        "sessions": 2
       },
       "month": {
-        "tokens": 12578021343,
-        "input": 11428982412,
-        "output": 25307491,
+        "tokens": 12578973126,
+        "input": 11429923469,
+        "output": 25318217,
         "cache": 12194142592,
         "reasoning": 9003384,
-        "sessions": 1210
+        "sessions": 1212
       },
       "allTime": {
-        "tokens": 12578021343,
-        "input": 11428982412,
-        "output": 25307491,
+        "tokens": 12578973126,
+        "input": 11429923469,
+        "output": 25318217,
         "cache": 12194142592,
         "reasoning": 9003384,
-        "sessions": 1210
+        "sessions": 1212
       }
     }
   }
