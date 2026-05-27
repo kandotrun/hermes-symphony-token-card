@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T02:21:12.614995Z",
+  "generatedAt": "2026-05-27T02:31:56.263553Z",
   "timezone": "Asia/Tokyo",
   "today": "2026-05-27",
   "month": "2026-05",
@@ -8,28 +8,28 @@
     "hermes": {
       "label": "Hermes Agent",
       "today": {
-        "tokens": 951783,
-        "input": 941057,
-        "output": 10726,
+        "tokens": 1097266,
+        "input": 1084408,
+        "output": 12858,
         "cache": 0,
         "reasoning": 0,
-        "sessions": 2
+        "sessions": 4
       },
       "month": {
-        "tokens": 1226578024,
-        "input": 97589310,
-        "output": 5257274,
+        "tokens": 1226723507,
+        "input": 97732661,
+        "output": 5259406,
         "cache": 1122765824,
         "reasoning": 965616,
-        "sessions": 962
+        "sessions": 964
       },
       "allTime": {
-        "tokens": 1226578024,
-        "input": 97589310,
-        "output": 5257274,
+        "tokens": 1226723507,
+        "input": 97732661,
+        "output": 5259406,
         "cache": 1122765824,
         "reasoning": 965616,
-        "sessions": 962
+        "sessions": 964
       }
     },
     "symphony": {
@@ -62,28 +62,28 @@
     "total": {
       "label": "Total",
       "today": {
-        "tokens": 951783,
-        "input": 941057,
-        "output": 10726,
+        "tokens": 1097266,
+        "input": 1084408,
+        "output": 12858,
         "cache": 0,
         "reasoning": 0,
-        "sessions": 2
+        "sessions": 4
       },
       "month": {
-        "tokens": 12578973126,
-        "input": 11429923469,
-        "output": 25318217,
+        "tokens": 12579118609,
+        "input": 11430066820,
+        "output": 25320349,
         "cache": 12194142592,
         "reasoning": 9003384,
-        "sessions": 1212
+        "sessions": 1214
       },
       "allTime": {
-        "tokens": 12578973126,
-        "input": 11429923469,
-        "output": 25318217,
+        "tokens": 12579118609,
+        "input": 11430066820,
+        "output": 25320349,
         "cache": 12194142592,
         "reasoning": 9003384,
-        "sessions": 1212
+        "sessions": 1214
       }
     }
   }
