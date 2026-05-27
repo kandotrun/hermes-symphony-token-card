@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T02:52:41.212505Z",
+  "generatedAt": "2026-05-27T03:03:36.362354Z",
   "timezone": "Asia/Tokyo",
   "today": "2026-05-27",
   "month": "2026-05",
@@ -8,28 +8,28 @@
     "hermes": {
       "label": "Hermes Agent",
       "today": {
-        "tokens": 1122334,
-        "input": 1108493,
-        "output": 13841,
+        "tokens": 1793471,
+        "input": 1775501,
+        "output": 17970,
         "cache": 0,
         "reasoning": 0,
-        "sessions": 4
+        "sessions": 5
       },
       "month": {
-        "tokens": 1226748575,
-        "input": 97756746,
-        "output": 5260389,
+        "tokens": 1227419712,
+        "input": 98423754,
+        "output": 5264518,
         "cache": 1122765824,
         "reasoning": 965616,
-        "sessions": 964
+        "sessions": 965
       },
       "allTime": {
-        "tokens": 1226748575,
-        "input": 97756746,
-        "output": 5260389,
+        "tokens": 1227419712,
+        "input": 98423754,
+        "output": 5264518,
         "cache": 1122765824,
         "reasoning": 965616,
-        "sessions": 964
+        "sessions": 965
       }
     },
     "symphony": {
@@ -62,28 +62,28 @@
     "total": {
       "label": "Total",
       "today": {
-        "tokens": 1122334,
-        "input": 1108493,
-        "output": 13841,
+        "tokens": 1793471,
+        "input": 1775501,
+        "output": 17970,
         "cache": 0,
         "reasoning": 0,
-        "sessions": 4
+        "sessions": 5
       },
       "month": {
-        "tokens": 12579143677,
-        "input": 11430090905,
-        "output": 25321332,
+        "tokens": 12579814814,
+        "input": 11430757913,
+        "output": 25325461,
         "cache": 12194142592,
         "reasoning": 9003384,
-        "sessions": 1214
+        "sessions": 1215
       },
       "allTime": {
-        "tokens": 12579143677,
-        "input": 11430090905,
-        "output": 25321332,
+        "tokens": 12579814814,
+        "input": 11430757913,
+        "output": 25325461,
         "cache": 12194142592,
         "reasoning": 9003384,
-        "sessions": 1214
+        "sessions": 1215
       }
     }
   }
