@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T10:19:30.916483Z",
+  "generatedAt": "2026-05-27T10:29:59.300889Z",
   "timezone": "Asia/Tokyo",
   "today": "2026-05-27",
   "month": "2026-05",
@@ -35,54 +35,54 @@
     "symphony": {
       "label": "Symphony",
       "today": {
-        "tokens": 39376519,
-        "input": 39198634,
-        "output": 177885,
-        "cache": 38092928,
-        "reasoning": 63631,
+        "tokens": 41045469,
+        "input": 40863969,
+        "output": 181500,
+        "cache": 39731072,
+        "reasoning": 65061,
         "sessions": 6
       },
       "month": {
-        "tokens": 11391771621,
-        "input": 11371532793,
-        "output": 20238828,
-        "cache": 11109469696,
-        "reasoning": 8101399,
+        "tokens": 11393440571,
+        "input": 11373198128,
+        "output": 20242443,
+        "cache": 11111107840,
+        "reasoning": 8102829,
         "sessions": 256
       },
       "allTime": {
-        "tokens": 11391771621,
-        "input": 11371532793,
-        "output": 20238828,
-        "cache": 11109469696,
-        "reasoning": 8101399,
+        "tokens": 11393440571,
+        "input": 11373198128,
+        "output": 20242443,
+        "cache": 11111107840,
+        "reasoning": 8102829,
         "sessions": 256
       }
     },
     "total": {
       "label": "Total",
       "today": {
-        "tokens": 41169990,
-        "input": 40974135,
-        "output": 195855,
-        "cache": 38092928,
-        "reasoning": 63631,
+        "tokens": 42838940,
+        "input": 42639470,
+        "output": 199470,
+        "cache": 39731072,
+        "reasoning": 65061,
         "sessions": 11
       },
       "month": {
-        "tokens": 12619191333,
-        "input": 11469956547,
-        "output": 25503346,
-        "cache": 12232235520,
-        "reasoning": 9067015,
+        "tokens": 12620860283,
+        "input": 11471621882,
+        "output": 25506961,
+        "cache": 12233873664,
+        "reasoning": 9068445,
         "sessions": 1221
       },
       "allTime": {
-        "tokens": 12619191333,
-        "input": 11469956547,
-        "output": 25503346,
-        "cache": 12232235520,
-        "reasoning": 9067015,
+        "tokens": 12620860283,
+        "input": 11471621882,
+        "output": 25506961,
+        "cache": 12233873664,
+        "reasoning": 9068445,
         "sessions": 1221
       }
     }
