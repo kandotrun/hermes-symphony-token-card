@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T15:11:34.256670Z",
+  "generatedAt": "2026-05-28T15:22:14.219241Z",
   "timezone": "Asia/Tokyo",
   "today": "2026-05-29",
   "month": "2026-05",
@@ -35,54 +35,54 @@
     "symphony": {
       "label": "Symphony",
       "today": {
-        "tokens": 394020,
-        "input": 388910,
-        "output": 5110,
-        "cache": 333952,
-        "reasoning": 1785,
+        "tokens": 4570605,
+        "input": 4543973,
+        "output": 26632,
+        "cache": 4403584,
+        "reasoning": 8447,
         "sessions": 1
       },
       "month": {
-        "tokens": 12792761143,
-        "input": 12768528625,
-        "output": 24232518,
-        "cache": 12473470848,
-        "reasoning": 9446438,
+        "tokens": 12807129467,
+        "input": 12782856984,
+        "output": 24272483,
+        "cache": 12487599488,
+        "reasoning": 9461179,
         "sessions": 325
       },
       "allTime": {
-        "tokens": 12792761143,
-        "input": 12768528625,
-        "output": 24232518,
-        "cache": 12473470848,
-        "reasoning": 9446438,
+        "tokens": 12807129467,
+        "input": 12782856984,
+        "output": 24272483,
+        "cache": 12487599488,
+        "reasoning": 9461179,
         "sessions": 325
       }
     },
     "total": {
       "label": "Total",
       "today": {
-        "tokens": 394020,
-        "input": 388910,
-        "output": 5110,
-        "cache": 333952,
-        "reasoning": 1785,
+        "tokens": 4570605,
+        "input": 4543973,
+        "output": 26632,
+        "cache": 4403584,
+        "reasoning": 8447,
         "sessions": 1
       },
       "month": {
-        "tokens": 14383715070,
-        "input": 12881541785,
-        "output": 30592237,
-        "cache": 13943610240,
-        "reasoning": 10888094,
+        "tokens": 14398083394,
+        "input": 12895870144,
+        "output": 30632202,
+        "cache": 13957738880,
+        "reasoning": 10902835,
         "sessions": 1357
       },
       "allTime": {
-        "tokens": 14383715070,
-        "input": 12881541785,
-        "output": 30592237,
-        "cache": 13943610240,
-        "reasoning": 10888094,
+        "tokens": 14398083394,
+        "input": 12895870144,
+        "output": 30632202,
+        "cache": 13957738880,
+        "reasoning": 10902835,
         "sessions": 1357
       }
     }
