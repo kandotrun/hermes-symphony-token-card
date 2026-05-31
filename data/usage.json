@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T15:33:15.649184Z",
+  "generatedAt": "2026-05-31T15:44:12.871513Z",
   "timezone": "Asia/Tokyo",
   "today": "2026-06-01",
   "month": "2026-06",
@@ -51,11 +51,11 @@
         "sessions": 0
       },
       "allTime": {
-        "tokens": 16476198843,
-        "input": 16443386643,
-        "output": 32812200,
-        "cache": 16079375488,
-        "reasoning": 12280184,
+        "tokens": 16479120275,
+        "input": 16446304170,
+        "output": 32816105,
+        "cache": 16082270976,
+        "reasoning": 12281526,
         "sessions": 496
       }
     },
@@ -78,11 +78,11 @@
         "sessions": 0
       },
       "allTime": {
-        "tokens": 18513020634,
-        "input": 16577155506,
-        "output": 40968902,
-        "cache": 17972025984,
-        "reasoning": 14525914,
+        "tokens": 18515942066,
+        "input": 16580073033,
+        "output": 40972807,
+        "cache": 17974921472,
+        "reasoning": 14527256,
         "sessions": 1670
       }
     }
