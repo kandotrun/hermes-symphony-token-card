@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T18:35:49.476486Z",
+  "generatedAt": "2026-06-03T18:47:30.020809Z",
   "timezone": "Asia/Tokyo",
   "today": "2026-06-04",
   "month": "2026-06",
@@ -8,82 +8,82 @@
     "hermes": {
       "label": "Hermes Agent",
       "today": {
-        "tokens": 44655634,
-        "input": 1556263,
-        "output": 133234,
-        "cache": 42908672,
-        "reasoning": 57465,
-        "sessions": 7
+        "tokens": 48293958,
+        "input": 1716787,
+        "output": 140642,
+        "cache": 46376960,
+        "reasoning": 59569,
+        "sessions": 8
       },
       "month": {
-        "tokens": 1000579264,
-        "input": 49610328,
-        "output": 3813642,
-        "cache": 945432576,
-        "reasoning": 1722718,
-        "sessions": 394
+        "tokens": 1004217588,
+        "input": 49770852,
+        "output": 3821050,
+        "cache": 948900864,
+        "reasoning": 1724822,
+        "sessions": 395
       },
       "allTime": {
-        "tokens": 3037401055,
-        "input": 183379191,
-        "output": 11970344,
-        "cache": 2838083072,
-        "reasoning": 3968448,
-        "sessions": 1568
+        "tokens": 3041039379,
+        "input": 183539715,
+        "output": 11977752,
+        "cache": 2841551360,
+        "reasoning": 3970552,
+        "sessions": 1569
       }
     },
     "symphony": {
       "label": "Symphony",
       "today": {
-        "tokens": 35946945,
-        "input": 35857018,
-        "output": 89927,
-        "cache": 34960000,
-        "reasoning": 36955,
+        "tokens": 41238924,
+        "input": 41143017,
+        "output": 95907,
+        "cache": 40222080,
+        "reasoning": 38080,
         "sessions": 7
       },
       "month": {
-        "tokens": 5574627438,
-        "input": 5563242469,
-        "output": 11384969,
-        "cache": 5456217728,
-        "reasoning": 3848335,
+        "tokens": 5597537265,
+        "input": 5586118784,
+        "output": 11418481,
+        "cache": 5478652032,
+        "reasoning": 3855945,
         "sessions": 223
       },
       "allTime": {
-        "tokens": 22053747713,
-        "input": 22009546639,
-        "output": 44201074,
-        "cache": 21538488704,
-        "reasoning": 16129861,
+        "tokens": 22076657540,
+        "input": 22032422954,
+        "output": 44234586,
+        "cache": 21560923008,
+        "reasoning": 16137471,
         "sessions": 719
       }
     },
     "total": {
       "label": "Total",
       "today": {
-        "tokens": 80602579,
-        "input": 37413281,
-        "output": 223161,
-        "cache": 77868672,
-        "reasoning": 94420,
-        "sessions": 14
+        "tokens": 89532882,
+        "input": 42859804,
+        "output": 236549,
+        "cache": 86599040,
+        "reasoning": 97649,
+        "sessions": 15
       },
       "month": {
-        "tokens": 6575206702,
-        "input": 5612852797,
-        "output": 15198611,
-        "cache": 6401650304,
-        "reasoning": 5571053,
-        "sessions": 617
+        "tokens": 6601754853,
+        "input": 5635889636,
+        "output": 15239531,
+        "cache": 6427552896,
+        "reasoning": 5580767,
+        "sessions": 618
       },
       "allTime": {
-        "tokens": 25091148768,
-        "input": 22192925830,
-        "output": 56171418,
-        "cache": 24376571776,
-        "reasoning": 20098309,
-        "sessions": 2287
+        "tokens": 25117696919,
+        "input": 22215962669,
+        "output": 56212338,
+        "cache": 24402474368,
+        "reasoning": 20108023,
+        "sessions": 2288
       }
     }
   }
