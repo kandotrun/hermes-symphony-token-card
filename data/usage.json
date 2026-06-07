@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-06-07T14:58:22.299128Z",
+  "generatedAt": "2026-06-07T15:09:24.922019Z",
   "timezone": "Asia/Tokyo",
-  "today": "2026-06-07",
+  "today": "2026-06-08",
   "month": "2026-06",
   "note": "Hermes uses local sessions table usage. Symphony uses Codex rollout token_count events from Symphony-launched workers. This is not provider billing.",
   "categories": {
     "hermes": {
       "label": "Hermes Agent",
       "today": {
-        "tokens": 24487631,
-        "input": 2350429,
-        "output": 205040,
-        "cache": 21832192,
-        "reasoning": 99970,
-        "sessions": 19
+        "tokens": 0,
+        "input": 0,
+        "output": 0,
+        "cache": 0,
+        "reasoning": 0,
+        "sessions": 0
       },
       "month": {
         "tokens": 1366897174,
@@ -35,12 +35,12 @@
     "symphony": {
       "label": "Symphony",
       "today": {
-        "tokens": 105781712,
-        "input": 105442660,
-        "output": 339052,
-        "cache": 102920448,
-        "reasoning": 127857,
-        "sessions": 15
+        "tokens": 0,
+        "input": 0,
+        "output": 0,
+        "cache": 0,
+        "reasoning": 0,
+        "sessions": 0
       },
       "month": {
         "tokens": 8414145958,
@@ -62,12 +62,12 @@
     "total": {
       "label": "Total",
       "today": {
-        "tokens": 130269343,
-        "input": 107793089,
-        "output": 544092,
-        "cache": 124752640,
-        "reasoning": 227827,
-        "sessions": 34
+        "tokens": 0,
+        "input": 0,
+        "output": 0,
+        "cache": 0,
+        "reasoning": 0,
+        "sessions": 0
       },
       "month": {
         "tokens": 9781043132,
