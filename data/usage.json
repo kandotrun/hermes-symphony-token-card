@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T15:13:34.080690Z",
+  "generatedAt": "2026-06-10T15:24:35.086528Z",
   "timezone": "Asia/Tokyo",
   "today": "2026-06-11",
   "month": "2026-06",
@@ -8,27 +8,27 @@
     "hermes": {
       "label": "Hermes Agent",
       "today": {
-        "tokens": 317258,
-        "input": 154681,
-        "output": 3045,
-        "cache": 158208,
-        "reasoning": 1324,
+        "tokens": 1163109,
+        "input": 338916,
+        "output": 9669,
+        "cache": 810496,
+        "reasoning": 4028,
         "sessions": 2
       },
       "month": {
-        "tokens": 1763260457,
-        "input": 95771527,
-        "output": 6879220,
-        "cache": 1657605632,
-        "reasoning": 3004078,
+        "tokens": 1766591796,
+        "input": 95981154,
+        "output": 6888703,
+        "cache": 1660713984,
+        "reasoning": 3007955,
         "sessions": 633
       },
       "allTime": {
-        "tokens": 3801100265,
-        "input": 229773068,
-        "output": 15051217,
-        "cache": 3551019520,
-        "reasoning": 5256460,
+        "tokens": 3804431604,
+        "input": 229982695,
+        "output": 15060700,
+        "cache": 3554127872,
+        "reasoning": 5260337,
         "sessions": 1807
       }
     },
@@ -62,27 +62,27 @@
     "total": {
       "label": "Total",
       "today": {
-        "tokens": 317258,
-        "input": 154681,
-        "output": 3045,
-        "cache": 158208,
-        "reasoning": 1324,
+        "tokens": 1163109,
+        "input": 338916,
+        "output": 9669,
+        "cache": 810496,
+        "reasoning": 4028,
         "sessions": 2
       },
       "month": {
-        "tokens": 10877498579,
-        "input": 9190921221,
-        "output": 25967648,
-        "cache": 10535044480,
-        "reasoning": 9283366,
+        "tokens": 10880829918,
+        "input": 9191130848,
+        "output": 25977131,
+        "cache": 10538152832,
+        "reasoning": 9287243,
         "sessions": 1092
       },
       "allTime": {
-        "tokens": 29394458662,
-        "input": 25771226932,
-        "output": 66955750,
-        "cache": 28510729344,
-        "reasoning": 23817274,
+        "tokens": 29397790001,
+        "input": 25771436559,
+        "output": 66965233,
+        "cache": 28513837696,
+        "reasoning": 23821151,
         "sessions": 2762
       }
     }
